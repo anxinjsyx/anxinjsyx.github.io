@@ -4,11 +4,24 @@
   
   
   <entry>
-    <title>Hexo Template</title>
+    <title>邮箱免费使用</title>
+    <link href="/mail/"/>
+    <url>/mail/</url>
+    
+    <content type="html"><![CDATA[<p>我们在飞书解析了很多个域名<br>比如<br>4022.top(不建议，6月可能弃用)<br>anson.fun（不开放注册）<br>anson.asia（不开放注册）<br>ognn.top<br>ognn.xyz<br>uogkrx.xyz<br>这些是我们的域名，都已经解析到了飞书邮箱，如果你想要使用我们的邮箱<br>请联系我<br><a href="mailto:mail@ognn.top?subject=免费个人邮箱申请">点击我申请使用</a><br>邮件主题内容实例</p><blockquote><p>你好我是XXX，想要申请免费个人邮箱<br>我想申请的邮箱名是：<a href="mailto:&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#101;&#64;&#97;&#x6e;&#115;&#x6f;&#110;&#46;&#x66;&#x75;&#110;">&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#101;&#64;&#97;&#x6e;&#115;&#x6f;&#110;&#46;&#x66;&#x75;&#110;</a><br>我的联系方式是（QQ、微信、电话）：3258629277</p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第一个博客！</title>
     <link href="/first/"/>
     <url>/first/</url>
     
-    <content type="html"><![CDATA[<p>这是我的第一篇博客！<br>后期我会更换域名到anson.asia<br>现在不换因为域名转移中！</p>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第一篇博客！<br>后期我会更换域名到anson.asia<br>现在不换因为域名转移中！<br>域名转移完毕我们将直接使用，如果你一段时间发现此网站404，请访问anson.asia<br>我们的打算在域名转移完毕后在写我们的博客</p>]]></content>
     
     
     
